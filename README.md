@@ -3,6 +3,8 @@
 
 This is a basic web page created using HTML, CSS, and JavaScript. It displays a button that, when clicked, shows a message.
 
+![image alt](https://github.com/Rithesh0115/demo/blob/f64b324e85562432ef670245e816d4cef33966e2/Screenshot%201.png)
+
 ## Project Structure
 ```
 ├── index.html   # Main HTML file
